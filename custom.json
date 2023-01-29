@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "25.2-delta-v6",
+    "versionCode": "252000",
+    "link": "https://github.com/MN312001/Magisk-Delta/raw/main/Magisk.apk",
+    "note": "https://github.com/MN312001/Magisk-Delta/raw/main/README.md"
+  },
+  "stub": {
+    "versionCode": "25.2-delta-v6",
+    "link": "https://github.com/MN312001/Magisk-Delta/raw/main/Magisk.apk"
+  }
+}
