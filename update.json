@@ -4,5 +4,9 @@
     "versionCode": "252000",
     "link": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/Magisk.apk",
     "note": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/README.md"
+  },
+  "stub": {
+    "versionCode": "25.2-delta-v6",
+    "link": "https://github.com/xdevkroom/king_kim/raw/main/stub-release.apk"
   }
 }
