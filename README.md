@@ -1,4 +1,4 @@
-## Magisk-Delta
+## Magisk
 ## Mohammad-Ismail
 
 - Magisk Delta V6 Channel Custom By Mohammad Ismail 
