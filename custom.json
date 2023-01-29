@@ -1,7 +1,7 @@
 {
   "magisk": {
     "version": "25.2-delta-v6",
-    "versionCode": "252000",
+    "versionCode": "25200",
     "link": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/Magisk.apk",
     "note": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/README.md"
   },
