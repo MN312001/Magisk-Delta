@@ -1,8 +1,9 @@
 ## Magisk-Delta
 ## Mohammad-Ismail
 
-- Magisk Delta V5 
+- Magisk Delta V6 Channel Custom By Mohammad Ismail 
 - RooT OnlinE
+- Apps Android Premium
 
 - Communication
 
