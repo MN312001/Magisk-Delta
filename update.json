@@ -1,6 +1,8 @@
-{ 
-    "version": "v25.2",
-    "versionCode": 25200,
-    "zipUrl": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/Magisk.apk",
-    "changelog": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/README.md"
+{
+  "magisk": {
+    "version": "25.2-delta-v6",
+    "versionCode": "252000",
+    "link": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/Magisk.apk",
+    "note": "https://raw.githubusercontent.com/MN312001/Magisk-Delta/main/README.md"
+  }
 }
