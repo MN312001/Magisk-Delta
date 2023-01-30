@@ -1,7 +1,7 @@
 ## Magisk-Delta
 ## Mohammad-Ismail
 
-- Magisk Delta V5 Channel Custom By Mohammad Ismail 
+- Magisk Delta 25.2-delta-v6 Channel Custom By Mohammad Ismail 
 - RooT Online By Android
 - Apps Android Premium
 - Root (oneplus + RedMagic + Samsung + Xiaomi ) Android 10+11+12 The price is : 20 US dollars / 75 Saudi riyals
